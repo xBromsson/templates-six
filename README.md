@@ -58,7 +58,6 @@ Simply, select a pair of version tags in that interface!
 
 ## Useful Links
 testing github
-testing the local github process
 * [Documentation](http://docs.whmcs.com/Customising_the_Six_Theme)
 * [Technical Support](http://www.whmcs.com/support)
 * [WHMCS Website](http://www.whmcs.com/)
